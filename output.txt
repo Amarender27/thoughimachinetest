@@ -1,0 +1,29 @@
+Procedure:
+
+install nodemodules with command - npm install
+package.json file with command npm init
+
+install module
+
+express module - npm i express
+
+
+Result :
+
+end point /records
+http://localhost:3005/records
+http://localhost:3005/records?page=1&limit=10
+default output with page :1 and limit :10
+
+end point 
+http://localhost:3005/?id=2
+http://localhost:3005/?disposition=closed
+http://localhost:3005/?disposition=open
+http://localhost:3005/?color=yellow
+http://localhost:3005/?color=brown
+http://localhost:3005/?color=red
+http://localhost:3005/?color=green
+http://localhost:3005/?color=blue
+http://localhost:3005/?color=yellow&disposition=open
+
+
